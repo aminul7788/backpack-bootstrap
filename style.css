@@ -1,0 +1,13 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-color{
+    color: #76C27E;
+}
+.logo-color2{
+    color: #363958;
+}
+.nav-item-spacing{
+    margin-right: 30px;
+}
