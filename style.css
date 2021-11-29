@@ -22,3 +22,13 @@ body{
 .img-margin{
     padding: 10px;
 }
+.shop-card{
+    background-color: #f1f1f1;
+}
+.shop-footer-card{
+    border: 0;
+    background-color: white;
+}
+.bag-card{
+    border: 0;
+}
