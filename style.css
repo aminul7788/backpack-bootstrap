@@ -14,6 +14,8 @@ body{
 .btn-color{
     background-color: #363958;
     border-color: #363958;
+    padding: 10px;
+    border-radius: 10px;
 }
 .backpack-card{
     border-radius: 10px;
@@ -24,11 +26,40 @@ body{
 }
 .shop-card{
     background-color: #f1f1f1;
+    border-radius: 15px;
 }
 .shop-footer-card{
     border: 0;
     background-color: white;
 }
 .bag-card{
+    border: 0;
+    padding: 20px;
+    border-radius: 15px;
+}
+.btn-icon{
+    margin-right: 10px;
+}
+.price{
+    color: #76C27E;
+    font-weight: 900;
+}
+h5{
+    color: #363958;
+    font-weight: 900
+}
+.subscribe{
+    height: 200px;
+    border-radius: 15px;
+    background-color: #76C27E;
+}
+.btn-subscribe{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.search-box{
+    width: 400px;
+    border-radius: 15px;
+    height: 40px;
     border: 0;
 }
